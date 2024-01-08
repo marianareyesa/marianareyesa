@@ -1,4 +1,3 @@
-### Hi there 👋
 ![Header Image](https://github.com/marianareyesa/github-images/blob/main/banner.png?raw=true)
 <!--
 **marianareyesa/marianareyesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
