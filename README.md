@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Header Image]([https://drive.google.com/file/d/10W1n6jlQxTt4D8Dt0nd8EPMIw0kwUKhr/view?usp=sharing](https://github.com/marianareyesa/github-images/blob/main/banner.png))
+![Header Image](https://github.com/marianareyesa/github-images/blob/main/banner.png?raw=true)
 <!--
 **marianareyesa/marianareyesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
