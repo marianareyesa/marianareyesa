@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 https://liyasthomas.github.io/banner/
 ![Header Image](https://github.com/marianareyesa/github-images/blob/main/banner.png?raw=true)
--->
 ![Mariana's GitHub stats](https://github-readme-stats.vercel.app/api?username=marianareyesa&show_icons=true)
+-->
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marianareyesa&hide_progress=true)
