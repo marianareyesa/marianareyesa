@@ -1,3 +1,4 @@
+## About me:
 Hi there! I'm Mariana Reyes, a computer science & AI student 💻💡
 <!--
 **marianareyesa/marianareyesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
